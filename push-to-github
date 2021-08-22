@@ -1,0 +1,19 @@
+#!/usr/bin/env sh
+
+if ! command -v git-rightend >/dev/null; then
+    . ~/.profile 2>/dev/null
+    if ! command -v git-rightend >/dev/null; then
+        oldDir="$(pwd)"
+        cd /tmp
+        git clone https://github.com/Right-End/GitRightEnd.git
+        cd GitRightEnd
+        . ./git-rightend-install
+        cd -- "$oldDir"
+    fi
+fi
+
+git-rightend pull
+git-rightend add .
+git-rightend commit
+git-rightend push
+

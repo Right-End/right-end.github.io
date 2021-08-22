@@ -1,0 +1,36 @@
+{
+	"title": "Right End Login Service",
+	"description": "Right End login service is the right way to log in",
+	"header_one": "Right End Login Service",
+	
+	"header_two_start": "The",
+	"keysvg_alt": "right",
+	"keysvg_fast": "F A S T",
+	"keyhoriz_fast": "271",
+	"keyspace_fast": "0",
+	"keysvg_easy": "E A S Y",
+	"keyhoriz_easy": "271",
+	"keyspace_easy": "0",
+	"keysvg_secure": "S E C U R E",
+	"keyhoriz_secure": "204",
+	"keyspace_secure": "-11px",
+	"keysvg_private": "P R I V A T E",
+	"keyhoriz_private": "190",
+	"keyspace_private": "-15px",
+	"keysvg_right": "R I G H T",
+	"keyhoriz_right": "240",
+	"keyspace_right": "-5px",
+	"header_two_end": "way to logon",
+
+	"dev_status": "RightEnd is still under development and is not ready yet. Please be sure to check back soon. Thank you for your patience.",
+	
+	"header_email": "Email alert sign-up",
+	"email_subject": "One-time RightEnd launch notification{ from NAME}",
+	"email_body": "Hi RightEnd,\n\n{I'm NAME and }I'm eager to hear when RightEnd launches. By sending this email, I give RightEnd permission to reply once to this email and send me at most two launch emails.\n\nI understand that RightEnd will not use or share my email address beyond these specific permissions.{\n\nSincerely,\nNAME}",
+	"firstname_label": "Your first name (optional):",
+	"firstname_placeholder": "James",
+	"email_signup_long": "Signup for a one-time notification",
+	"email_signup_short": "Signup",
+	
+	"fasterone_uri": "data:font/woff2;base64,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"
+}

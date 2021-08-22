@@ -1,0 +1,36 @@
+{
+	"title": "Right End login Dienst",
+	"description": "Right End login Dienst ist der richtige Weg einzuloggen",
+	"header_one": "Right End login Dienst",
+	
+	"header_two_start": "So melden Sie sich",
+	"keysvg_alt": "richtig",
+	"keysvg_fast": "S C H N E L L",
+	"keyhoriz_fast": "271",
+	"keyspace_fast": "0",
+	"keysvg_easy": "M Ü H E L O S",
+	"keyhoriz_easy": "271",
+	"keyspace_easy": "0",
+	"keysvg_secure": "S I C H E R",
+	"keyhoriz_secure": "204",
+	"keyspace_secure": "-11px",
+	"keysvg_private": "P R I V A T",
+	"keyhoriz_private": "190",
+	"keyspace_private": "-15px",
+	"keysvg_right": "R I C H T I G",
+	"keyhoriz_right": "240",
+	"keyspace_right": "-5px",
+	"header_two_end": "an",
+
+	"dev_status": "RightEnd ist noch in der Entwicklung und ist noch nicht fertig. Bitte schauen Sie bald wieder vorbei. Vielen Dank für Ihre Geduld.",
+	
+	"header_email": "Email-Benachrichtigung anmelden",
+	"email_subject": "Einmalige RightEnd-Startbenachrichtigung{ von NAME}",
+	"email_body": "Hallo RightEnd,\n\nIch{ heiße NAME und} bin gespannt, wann RightEnd auf den Markt kommt. Durch das Senden dieser Email erteile ich RightEnd die Erlaubnis, einmal auf diese Email zu antworten und mir in einer Notfallsituation zusätzlich eine oder zwei Emails zu senden (Beispiel: Wenn es eine Störung ist, wenn die Email RightEnd Starts sendet und zufällig Leute nicht erhalten, die Einführung Email, dann wird RightEnd versuchen, die Email an alle zu senden).\n\nIch verbiete RightEnd, diese E-Mail-Adresse zu teilen (z. B. mit einem anderen Unternehmen zu teilen); Ich verbiete RightEnd von Aufzeichnungen über diese E-Mail-Adresse zu halten, nachdem sie die ersten Start E-Mail geschickt hat; und ich verbiete RightEnd, diese E-Mail-Adresse für andere Zwecke als das Versenden der ersten Start-E-Mail zu verwenden (z. B. Verwendung für gezielte Werbung).{\n\nAufrichtig,\nNAME}",
+	"firstname_label": "Ihr Vorname (optional):",
+	"firstname_placeholder": "Maximilian",
+	"email_signup_long": "Melden Sie sich für eine einmalige Anmeldung",
+	"email_signup_short": "Anmeldung",
+	
+	"fasterone_uri": "data:font/woff2;base64,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"
+}

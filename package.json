@@ -1,0 +1,23 @@
+{
+  "name": "@rightend/rightendbumper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Right-End/RightEndBumper.git"
+  },
+  "author": "Right-End",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Right-End/RightEndBumper/issues"
+  },
+  "homepage": "https://github.com/Right-End/RightEndBumper#readme",
+  "private": true,
+  "devDependencies": {
+    "html-minifier": "^4.0.0"
+  }
+}

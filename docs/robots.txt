@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+#Sitemap: https://infoplasticsurgery.com/sitemap.xml
+Host: https://rightend.com
+
